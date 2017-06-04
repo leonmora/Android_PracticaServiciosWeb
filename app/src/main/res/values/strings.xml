@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Servicios</string>
+    <string-array name="servicios">
+        <item>Servicios</item>
+        <item>LogIn</item>
+        <item>Calculadora</item>
+        <item>Conversor de Divisas</item>
+    </string-array>
+</resources>
